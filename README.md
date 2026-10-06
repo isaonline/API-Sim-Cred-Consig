@@ -26,7 +26,7 @@ Desenvolvi este projeto como um desafio pessoal de **Desenvolvimento Back-End**,
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/isaonline/API-Sim-Cred-Consig](https://github.com/isaonline/API-Sim-Cred-Consig)
+   git clone [https://github.com/isaonline/API-Sim-Cred-Consig]
 
 2. **Crie e ative o ambiente virtual:**
     ```bash
